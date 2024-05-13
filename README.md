@@ -9,7 +9,6 @@
 - **JavaScript (JS)** 🌐: Creación de interfaces interactivas y dinámicas.
 - **Node.js** 🌿: Backend para aplicaciones escalables.
 - **React** ⚛️: Aplicaciones web modernas y reactivas.
-- **Next.js**: Generación de sitios web estáticos y renderizados por servidor con React.
 - **Flutter & Dart**: Desarrollo de aplicaciones móviles nativas de alto rendimiento para iOS y Android.
 - Y otros lenguajes y herramientas como **TypeScript**, **Express.js**, **MongoDB**, etc.
 
